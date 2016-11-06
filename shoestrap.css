@@ -77,10 +77,11 @@
   width: 100%;
 }
 
-li{
+.li{
   display: inline;
   border-radius: 8px;
   float: right;
+  padding: 5px;
 }
 
 * {
